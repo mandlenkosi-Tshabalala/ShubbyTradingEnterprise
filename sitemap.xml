@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://sitemaps.org">
+
+  <!-- Your Homepage (Crucial) -->
+  <url>
+    <loc>https://shubbytradingenterprise.co.za</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Example Subpage 1: Change "about" to match your page route if you have one -->
+  <url>
+    <loc>https://shubbytradingenterprise.co.za/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Example Subpage 2: Change "services" to match your page route if you have one -->
+  <url>
+    <loc>https://shubbytradingenterprise.co.za/services</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Example Subpage 1: Change "about" to match your page route if you have one -->
+  <url>
+    <loc>https://shubbytradingenterprise.co.za/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+
+</urlset>
