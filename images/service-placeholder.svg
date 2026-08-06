@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7faff"/>
+      <stop offset="100%" stop-color="#fff0ee"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#165dff"/>
+      <stop offset="100%" stop-color="#d92d20"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" rx="32" fill="url(#bg)"/>
+  <rect x="130" y="160" width="640" height="390" rx="28" fill="#fff" stroke="#dee5f2"/>
+  <rect x="180" y="220" width="180" height="240" rx="22" fill="#f7faff" stroke="#e2e8f4"/>
+  <rect x="390" y="220" width="180" height="240" rx="22" fill="#f7faff" stroke="#e2e8f4"/>
+  <rect x="600" y="220" width="120" height="240" rx="22" fill="#f7faff" stroke="#e2e8f4"/>
+  <circle cx="270" cy="290" r="42" fill="url(#accent)"/>
+  <circle cx="480" cy="290" r="42" fill="#165dff"/>
+  <circle cx="660" cy="290" r="30" fill="#d92d20"/>
+  <rect x="225" y="355" width="90" height="14" rx="7" fill="#d7e4ff"/>
+  <rect x="435" y="355" width="90" height="14" rx="7" fill="#d7e4ff"/>
+  <rect x="625" y="355" width="70" height="14" rx="7" fill="#d7e4ff"/>
+  <text x="450" y="610" fill="#5f6b7e" font-size="28" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Service workflow placeholder</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef4ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#165dff"/>
+      <stop offset="100%" stop-color="#d92d20"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" rx="32" fill="url(#bg)"/>
+  <rect x="120" y="150" width="660" height="400" rx="28" fill="#fff" stroke="#dfe6f2"/>
+  <rect x="170" y="205" width="240" height="24" rx="12" fill="#d7e4ff"/>
+  <rect x="170" y="248" width="190" height="16" rx="8" fill="#e7edf8"/>
+  <rect x="170" y="278" width="150" height="16" rx="8" fill="#e7edf8"/>
+  <rect x="520" y="220" width="170" height="240" rx="24" fill="#f7faff" stroke="#e1e8f4"/>
+  <circle cx="605" cy="290" r="42" fill="url(#accent)" opacity="0.95"/>
+  <rect x="545" y="350" width="120" height="16" rx="8" fill="#d7e4ff"/>
+  <rect x="545" y="382" width="130" height="14" rx="7" fill="#e7edf8"/>
+  <rect x="170" y="360" width="260" height="120" rx="20" fill="#f7faff" stroke="#e1e8f4"/>
+  <rect x="198" y="392" width="205" height="20" rx="10" fill="#d7e4ff"/>
+  <rect x="198" y="430" width="140" height="14" rx="7" fill="#e7edf8"/>
+  <text x="450" y="610" fill="#5f6b7e" font-size="28" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Office / team photo placeholder</text>
+</svg>
